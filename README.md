@@ -1,6 +1,6 @@
 # Progressive Compression and Decoding of 3D Models
 
-> Project completed at **ENSEEIHT** (2SN MM) in 2023 in pair
+> Project completed at **ENSEEIHT** (2SN MM) in 2023  
 > Course: *Modélisation, Compression, Streaming, Interactions 3D*  
 > Language: **Python 3**  
 > Team: *2*
